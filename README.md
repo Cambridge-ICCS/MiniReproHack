@@ -4,6 +4,8 @@
 
 [ReproHack](https://www.reprohack.org/) is an initiative that provides the templates and infrastructure to run reproducibility hackathon events. You can read all about its history and and development [on the ReproHack webpage](https://www.reprohack.org/about).
 
+At a ReproHack, people attempt to reproduce the results from a paper, using information, code and data provided by the author (sometimes called an "artifact"). They then provide feedback to the author on how easy this task was, what information was missing, and what could be improved.
+
 This repository aims to provide instruction and guidance for a small self-guided climate science ReproHack. The material is adapted from the [ReproHack Hub Resources](https://www.reprohack.org/resources).
 
 
