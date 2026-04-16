@@ -22,7 +22,7 @@ There are lots of [papers available on the ReproHack Hub](https://www.reprohack.
 
 - [Southern Ocean deep mixing band emerges from a competition between winter buoyancy loss and upper stratification strength](https://www.reprohack.org/paper/89/)
 - [Revisiting the zonally asymmetric extratropical circulation of the Southern Hemisphere spring using complex empirical orthogonal functions](https://www.reprohack.org/paper/88/)
-- [https://www.reprohack.org/paper/87/](The Polar Transition from Alpha to Beta Regions Set by a Surface Buoyancy Flux Inversion)
+- [The Polar Transition from Alpha to Beta Regions Set by a Surface Buoyancy Flux Inversion](https://www.reprohack.org/paper/87/)
 
 #### What to do
 
